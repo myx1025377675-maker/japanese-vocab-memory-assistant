@@ -48,3 +48,17 @@ Thumbs.db
 
 # Local configuration files with sensitive info
 *.local.json
+
+# Course assignment files (not part of the project)
+人工智能课程大作业说明*.pdf
+
+# MOJi dictionary PDFs (copyrighted third-party content)
+MOJi辞書*.pdf
+moji_extracted_preview.txt
+
+# Unrelated coursework
+cnn_assignment_all.py
+
+# Personal planning docs
+功能展示视频拍摄清单.md
+项目说明.md
