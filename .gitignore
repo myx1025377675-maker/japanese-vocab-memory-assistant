@@ -1,0 +1,50 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Large binary files
+*.mp4
+*.mp3
+*.exe
+*.zip
+
+# Database (auto-generated, user data)
+japanese_learning.db
+*.db-journal
+
+# Logs
+*.log
+streamlit.err.log
+streamlit.out.log
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Claude Code local settings
+.claude/
+.agents/
+
+# Duplicate bundle directory (mirrors root source)
+人工智能大作业_马跃翔_智能日语词汇记忆辅助系统/
+
+# Exam materials (large files, possible copyright)
+2024年7月/
+
+# Word documents (large binary reports)
+*.docx
+
+# Local configuration files with sensitive info
+*.local.json
